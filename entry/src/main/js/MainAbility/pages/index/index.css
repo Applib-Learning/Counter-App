@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://webgradients.com/public/webgradients_png/008%20Rainy%20Ashville.png')
+}
+.text{
+    font-size: 350px;
+    color: aliceblue;
+    padding: 100px;
+    margin-top: 200px;
+    margin-bottom: 200px;}
+
+@media screen and (device-type: phone) and (orientation: landscape) {
+    .title {
+        font-size: 60px;
+    }
+}
+
+@media screen and (device-type: tablet) and (orientation: landscape) {
+    .title {
+        font-size: 100px;
+    }
+}
