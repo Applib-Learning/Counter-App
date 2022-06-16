@@ -1,7 +1,7 @@
 # Counter App
 A Simple OpenHarmony API Version 8 Based Counter App in Javascript.
 
-The entire Application can be viewed from by [clicking here](https://github.com/SunandhiniMuralidharan/OHOS_Counter)
+The entire Application can be viewed from by [clicking here](https://github.com/Applib-Learning/Counter-App)
 
 ![Counter](https://user-images.githubusercontent.com/71301091/173360659-63711bff-9dab-401f-bc66-9d170a07c84b.gif)
 
